@@ -1,1 +1,1 @@
-# todo-app
+# tic-tac-toe app
